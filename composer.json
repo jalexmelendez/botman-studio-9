@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "jalexmelendez/botman-9",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Botman studio updated for php 8.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
