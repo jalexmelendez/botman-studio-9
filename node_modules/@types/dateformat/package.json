@@ -1,0 +1,30 @@
+{
+    "name": "@types/dateformat",
+    "version": "5.0.0",
+    "description": "TypeScript definitions for dateformat",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/dateformat",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Kombu",
+            "url": "https://github.com/aicest",
+            "githubUsername": "aicest"
+        },
+        {
+            "name": "BendingBender",
+            "url": "https://github.com/BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/dateformat"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "550d3526da8b144677d474c0a218dff0f12d6e56727658d5cdb1fa71e40615c9",
+    "typeScriptVersion": "3.7"
+}
